@@ -51,14 +51,12 @@
 
 ## Features 🚀
 
-1. Drawing Tools
-   
+1. ### Drawing Tools
   - Pencil tool for freehand drawing
   - Eraser tool for removing parts of the drawing
 
 
-2. Customization
-
+2. ### Customization
   - Color picker to change the drawing color
   - Width adjustment slider to change line thickness
 
